@@ -8,3 +8,4 @@ A collection of concise write-ups of small things that I learn in my day-to-day.
 ### Unix
 
 - [Suspending and Resuming Processes](unix/suspending-and-resuming-processes.md)
+- [Multiple Commands](unix/multiple-commands.md)
